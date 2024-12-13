@@ -1,2 +1,2 @@
 like
-cat favorite
+favorite
